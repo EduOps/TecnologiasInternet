@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://eduops.github.io/TecnologiasInternet/sitemap.xml
